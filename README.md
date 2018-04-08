@@ -1,3 +1,0 @@
-# BaiTapJava
-Java
-vd
